@@ -12,8 +12,8 @@ KEYWORDS="*"
 IUSE=""
 
 RDEPEND="
-    chromeos-base/termina-mounter
     chromeos-base/fydeos-appand-chromedev-flags
+    chromeos-base/termina-mounter
 "
 
 DEPEND="${RDEPEND}"
