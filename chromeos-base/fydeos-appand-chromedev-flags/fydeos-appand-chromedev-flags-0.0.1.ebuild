@@ -11,6 +11,9 @@ SLOT="0"
 KEYWORDS="*"
 IUSE=""
 
+RDEPEND="chromeos-base/fydeos-default-chromedev-flags"
+DEPEND="${RDEPEND}"
+
 S=${WORKDIR}
 
 CHROME_DEV_FLAGS="--fydemina"
