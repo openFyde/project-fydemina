@@ -3,6 +3,7 @@
 
 EAPI="5"
 
+inherit fydeos-ftp
 DESCRIPTION="termina image and mount scripts"
 HOMEPAGE="http://fydeos.com"
 
@@ -14,9 +15,8 @@ IUSE=""
 RDEPEND=""
 
 DEPEND="${RDEPEND}"
-S=${WORKDIR}
 
 src_install() {
     insinto /usr
-    doins -r ${FILESDIR}/tatl-fydeos
+    doins -r tatl-fydeos
 }
