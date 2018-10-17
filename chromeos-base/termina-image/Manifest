@@ -1,1 +1,3 @@
 DIST termina-image-amd64-68.0.0.0.tar.gz 425945185 MD5 207da33d76af7783fea87c94864c3487
+DIST termina-image-arm-68.0.0.0.tar.gz 382889530 MD5 792c0c9b7d2645a66cfaea43762d914f
+DIST termina-image-amd64-70.0.0.0.tar.gz 420662281 MD5 08b0324cb62ff8c60f69e73f12fc5a6b
