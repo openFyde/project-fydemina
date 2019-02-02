@@ -3,3 +3,8 @@ DIST termina-image-arm-68.0.0.0.tar.gz 382889530 MD5 792c0c9b7d2645a66cfaea43762
 DIST termina-image-amd64-70.0.0.0.tar.gz 420690940 MD5 b4bf7ccbbfa332c0df74789427891cde
 DIST termina-image-amd64-70.0.0.1.tar.gz 420788599 MD5 39653f9b20b69e71f624add6c89d38a2
 DIST termina-image-amd64-72.0.0.0.tar.gz 439481080 MD5 a78fecd5a7ec155b9e4303553f4cfeb7
+DIST termina-image-amd64-72.0.0.1.tar.gz 439417430 MD5 13275de2b89acdf61041028af81fc904
+DIST termina-image-arm-72.0.0.0.tar.gz 406091873 MD5 0ef4d9b9642cb07a3faa568bf94c6e78
+DIST termina-image-arm-72.0.0.2.tar.gz 406094027 MD5 a788e15f1a1f5fc0da99a8b7b05d10f6
+DIST termina-image-amd64-72.0.0.2.tar.gz 439416449 MD5 90b6a06c774c426a2351250e3c0665a9
+DIST termina-image-amd64-72.0.0.3.tar.gz 439355091 MD5 89ebb22fdf930079acf28131a73169fb
