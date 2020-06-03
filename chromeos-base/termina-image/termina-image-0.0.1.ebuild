@@ -17,7 +17,7 @@ RDEPEND=""
 DEPEND="${RDEPEND}"
 
 src_install() {
-    insinto /usr
+    insinto /usr/local
     use amd64 && doins -r tatl-fydeos
     use arm && doins -r tael-fydeos
 }
