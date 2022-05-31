@@ -11,6 +11,6 @@ SLOT="0"
 KEYWORDS="*"
 IUSE=""
 
-RDEPEND="chromeos-base/termina-image"
+RDEPEND="virtual/fydemina"
 
 DEPEND="${RDEPEND}"

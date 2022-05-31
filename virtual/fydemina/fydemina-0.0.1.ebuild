@@ -13,6 +13,7 @@ IUSE=""
 
 RDEPEND="
     chromeos-base/termina-mounter
+    chromeos-base/termina-image
 "
 
 DEPEND="${RDEPEND}"
