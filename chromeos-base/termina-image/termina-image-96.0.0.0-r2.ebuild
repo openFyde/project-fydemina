@@ -1,1 +1,0 @@
-termina-image-96.0.0.0.ebuild
