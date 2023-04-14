@@ -9,7 +9,7 @@ HOMEPAGE="http://fydeos.com"
 
 LICENSE="BSD-Google"
 SLOT="0"
-KEYWORDS="arm amd64"
+KEYWORDS="arm amd64 arm64"
 IUSE=""
 
 RDEPEND=""
@@ -20,4 +20,5 @@ src_install() {
     insinto /usr/local
     use amd64 && doins -r tatl-fydeos
     use arm && doins -r tael-fydeos
+    use arm64 && doins -r tael-fydeos
 }
