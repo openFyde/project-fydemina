@@ -10,7 +10,7 @@ HOMEPAGE="http://fydeos.com"
 LICENSE="BSD-Google"
 SLOT="0"
 KEYWORDS="arm amd64 arm64"
-IUSE=""
+IUSE="+noarm64"
 
 RDEPEND=""
 
