@@ -6,14 +6,16 @@ EAPI="4"
 DESCRIPTION="empty project"
 HOMEPAGE="http://fydeos.com"
 
-LICENSE="BSD-Google"
+
+# Modify this package into an empty package solely for compatibility purposes.
+# All other packages that list this package as a dependency should remove the dependency.
+# Eventually, this package should be deleted.
+
+LICENSE="BSD-Fyde"
 SLOT="0"
 KEYWORDS="*"
 IUSE=""
 
-RDEPEND="
-    chromeos-base/termina-mounter
-    chromeos-base/termina-image
-"
+RDEPEND=""
 
 DEPEND="${RDEPEND}"
